@@ -1,6 +1,6 @@
 # DL-mini-project
 Mini project for Deep Learning course
-By Saket prem, Satya Bharathi, Sidharth Prakash
+By Saket prem(sp6924), Satya Bharathi(sk10049), Sidharth Prakash(sx2236)
 
 
 mini_project_model.pt -> contains the saved best model with an accuracy of 93.2%.
